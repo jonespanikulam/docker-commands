@@ -30,8 +30,8 @@ Binded two ports for the redis containers.
   
 docker logs <container id>
 
-  Screenshot 2022-05-31 083515
-  
+![image](https://user-images.githubusercontent.com/59678465/171174928-a3584199-98d8-433f-98de-1aba8e6afeb6.png)
+    
   
 add name to container while running image
   

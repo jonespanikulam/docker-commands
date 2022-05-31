@@ -33,7 +33,7 @@ docker logs <container id>
 ![image](https://user-images.githubusercontent.com/59678465/171174928-a3584199-98d8-433f-98de-1aba8e6afeb6.png)
     
   
-add name to container while running image
+Name is added randomly when ran. But we can add name to container while running image
   
   ![image](https://user-images.githubusercontent.com/59678465/171174394-c85a82d7-bf15-4868-8004-16430200f599.png)
 

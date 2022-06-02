@@ -46,5 +46,10 @@ docker exec can be used to enter the bash mode of container for debugging
   
   
 
-
-
+To build a docker image using the Dockerfile.
+        
+        In the Dockerfile working directory:
+        
+        docker build -t <container-name> . 
+        
+To run docker: docker run <container-name>
